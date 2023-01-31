@@ -1,0 +1,14 @@
+.App {
+  max-width: 1800px;
+  height: 100vh;
+}
+
+.App-header {
+  text-align: center;
+  color: azure;
+}
+
+.header-text {
+  font-size: 40px;
+  opacity: 0.5;
+}
